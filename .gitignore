@@ -1,0 +1,33 @@
+# Quartus - arquivos de compilação
+/db/
+/incremental_db/
+/output_files/
+/greybox_tmp/
+
+# Arquivos temporários e workspace
+*.qws
+*.qws.bak
+*.bak
+*.tmp
+
+# Relatórios gerados
+*.rpt
+*.summary
+*.smsg
+*.done
+*.pin
+
+# Arquivos de programação da FPGA
+*.sof
+*.pof
+*.jic
+*.rbf
+
+# Simulação
+*.wlf
+transcript
+/work/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
